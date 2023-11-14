@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>pruebas</title>
+</head>
+<body>
+    <h1>1NGR3S@r D@TO5</h1>
+    <h2>pon tus datos</h2>
+    <form>
+        <label for="tarjeta">tarjeta</label>
+       <input type="text" name="tarjeta" placeholder="ex:1234-1234-1234-1234" />
+    </form>
+    <form>
+        <label for="contraseña">mm/aa</label>
+       <input type="date" name="contraseña"  />
+       <label for="contraseña">cvv</label>
+       <input type="text" name="contraseña" placeholder="ex:123"  />
+    </form>
+    <form>
+        <label for="contraseña">nombre</label>
+       <input type="text" name="contraseña" placeholder="ex:nombre" />
+       <label for="contraseña">apellido</label>
+       <input type="text" name="contraseña" placeholder="ex:apellido"  />
+    </form>
+    <form>
+        <label for="contraseña">correo</label>
+       <input type="email" name="contraseña" placeholder="ex:1234@gmail.com" />
+       <label for="contraseña">codigo postal</label>
+       <input type="text" name="contraseña" placeholder="ex:1234"  />
+    </form>
+    <form>
+        <label for="ola">direccion</label>
+        <input type="text" name="ola" placeholder="ex:avenida 123"
+        <label for="ola">hora en la que estas solo</label>
+        <input type="time" name="ola" placeholder="ex:avenida 123">
+    </form>
+    <form>
+        <label for="ola">valor de tus organos</label>
+        <input type="number" name="ola" placeholder="ex:$123212">
+    
+    <a target="_blank" href="https://www.google.com.ar">ir a google</a>
+    <img src="https://static.wikia.nocookie.net/ficcion-sin-limites/images/0/09/Hqdefault_%281%29.jpg/revision/latest/scale-to-width-down/380?cb=20230402033742&path-prefix=es"
+   
+</body>
+</html>
